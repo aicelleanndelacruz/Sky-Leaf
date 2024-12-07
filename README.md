@@ -1,6 +1,6 @@
 Sky Leaf Author: Kristelle Joy N. Bendicio and Aicelle - Ann B. De La Cruz Repository: GitHub - Sky Leaf Python Version: 3.13.1
 
-Project Description Sky Leaf is a fun and addictive arcade game developed using Python and the Pygame library. The player controls a character that must jump from platform to platform, avoiding obstacles while collecting power-ups like coins to achieve the highest score possible. The game ends when the player falls off the screen or hits a dangerous enemy.
+Project Description Sky Leaf is a fun game developed using Python and the Pygame library. The player controls a character that must jump from platform to platform, avoiding obstacles while collecting power-ups like coins to achieve the highest score possible. The game ends when the player falls off the screen or hits a dangerous enemy.
 
 Features Platform Mechanics: Dynamic platforms that can move, disappear, or break. Power-ups: Coins. Obstacles: Avoid the spike obstacles and also avoid falling down.  High Score Tracking: Records and displays the highest score achieved. Simple Controls: Use arrow keys for navigation. Installation Ensure Python and Pygame are installed before running the game. Follow these steps to set up the game:
 
